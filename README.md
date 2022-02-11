@@ -42,5 +42,5 @@
 
 ##
 
-![Snake animation](https://github.com/phdevlpr/phdevlpr/blob/output/github-contribution-grid-snake-svg)
+![Snake animation](https://github.com/rafaballerini/phdevlpr/blob/output/github-contribution-grid-snake.svg)
 
