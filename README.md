@@ -41,6 +41,6 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/phdevlpr/phdevlpr/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  ![Snake animation](https://github.com/phdevlpr/phdevlpr/blob/output/github-contribution-grid-snake.svg)
+</div>
