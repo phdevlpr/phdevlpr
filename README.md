@@ -38,9 +38,9 @@
   <a href="https://open.spotify.com/user/313u4hktswu3kra7qlplypchf64y" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a>
+  
+  ![Snake animation](https://github.com/phdevlpr/phdevlpr/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ##
-<div align="center">
-  ![Snake animation](https://github.com/phdevlpr/phdevlpr/blob/output/github-contribution-grid-snake.svg)
-</div>
