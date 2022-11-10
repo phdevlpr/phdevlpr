@@ -32,7 +32,7 @@
   <a href="https://www.reddit.com/user/phdevlpr" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
   </a>
-  <a href="https://wa.me/5535988768586/" target="_blank">
+  <a href="https://wa.me/5535991989469/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   <a href="https://open.spotify.com/user/313u4hktswu3kra7qlplypchf64y" target="_blank">
