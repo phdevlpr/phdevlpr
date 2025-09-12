@@ -1,6 +1,8 @@
 ### Olá mundo !!! Eu sou o Paulo Henrique Silva.🖖
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas pela Unifenas ...
-- 😄 Pronouns: ele/dele
+- Sou desenvolvedor Back-End Java, consolidando conhecimentos em Spring Boot para desenvolver APIs RESTful e Microsserviços. Tenho conhecimentos em HTML e CSS, base em Javascritp e Python.
+
+- Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas, Nível de escrita e leitura em inglês B1/B2 (intermediário)...
+
 ##
 <div align="center">
   <img width="455em" src="https://github-readme-stats.vercel.app/api?username=phdevlpr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
